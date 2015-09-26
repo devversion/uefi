@@ -1,0 +1,10 @@
+*.o
+*.efi
+*.vhd
+*.sdf
+*.suo
+*.opensdf
+x64
+OVMF.fd
+image
+x86_64/
